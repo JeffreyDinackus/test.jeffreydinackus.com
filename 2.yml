@@ -1,0 +1,15 @@
+# Site settings
+title: Mirror.JeffreyDinackus.com
+author:
+  name: JMirror
+  email: your-email@domain.com
+description: "Mirror for text"
+
+# Build settings
+remote_theme: jekyll/dinky
+
+# Example configuration to tell Jekyll to look for posts in a custom folder
+collections:
+  posts:
+    output: true
+    permalink: /content/:title
