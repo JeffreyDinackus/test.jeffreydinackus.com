@@ -6,7 +6,7 @@ author:
 description: "Mirror for text"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/dinky
 
 # Example configuration to tell Jekyll to look for posts in a custom folder
 collections:
